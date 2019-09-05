@@ -8,4 +8,5 @@ class ClickerApplication: Application(){
         super.onCreate()
         Timber.plant((Timber.DebugTree()))
     }
+
 }
